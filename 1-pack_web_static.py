@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" A Function that compress a folder """
+""" Function that compress a folder """
 from datetime import datetime
 from fabric.api import local
 

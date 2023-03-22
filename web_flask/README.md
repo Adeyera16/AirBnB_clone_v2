@@ -1,1 +1,1 @@
-This is the Web framework
+Web framework
